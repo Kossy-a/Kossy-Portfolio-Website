@@ -108,9 +108,9 @@ nav ul li a:hover::after{
     margin-bottom: 20px;
 }
 
-.subtitle p{
-    line-height: 32px;
-}
+.subheader{
+   line-height: 28px;
+    
 
 .tab-titles{
     display: flex;
